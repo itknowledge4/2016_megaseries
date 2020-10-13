@@ -11,4 +11,5 @@ You can find all presentations, code and other materials from the Windows Server
 [5. Windows Server 2016 Active Directory Recycle Bin](https://youtu.be/EaOzR51-f_o)</br>
 [6. Windows Server 2016 Features on Demand and .NET Framework 3.5](https://youtu.be/prR9mICn3RY)</br>
 [7. Demote a Windows Server 2016 Core Domain Controller with Powershell](https://youtu.be/ys2gIaMGpwU)</br>
-[8. Install and Configure DHCP on Windows Server 2016 Core with Powershell](https://youtu.be/jQqFxeyquoA)
+[8. Install and Configure DHCP on Windows Server 2016 Core with Powershell](https://youtu.be/jQqFxeyquoA)</br>
+[9. Introduction to DHCP Failover on Windows Server 2016](https://youtu.be/JcJrEOlFf4g)
