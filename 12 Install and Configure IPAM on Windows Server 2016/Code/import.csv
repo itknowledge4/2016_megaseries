@@ -1,0 +1,5 @@
+IP address,managed by service,service instance,device type,ip address state,assignment type,device name
+192.168.10.2,IPAM,localhost,Microsoft Servers,in-use,static,DC02
+192.168.10.3,IPAM,localhost,Microsoft Servers,in-use,static,DHCP01
+192.168.10.4,IPAM,localhost,Microsoft Servers,in-use,static,DHCP02
+192.168.10.5,IPAM,localhost,Microsoft Servers,in-use,static,IPAM01

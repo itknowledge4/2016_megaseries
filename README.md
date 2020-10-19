@@ -13,4 +13,6 @@ You can find all presentations, code and other materials from the Windows Server
 [7. Demote a Windows Server 2016 Core Domain Controller with Powershell](https://youtu.be/ys2gIaMGpwU)</br>
 [8. Install and Configure DHCP on Windows Server 2016 Core with Powershell](https://youtu.be/jQqFxeyquoA)</br>
 [9. Introduction to DHCP Failover on Windows Server 2016](https://youtu.be/JcJrEOlFf4g)</br>
-[10. Configure DHCP Failover on Windows Server 2016 with Powershell](https://youtu.be/Ru7G7QpwT-E)
+[10. Configure DHCP Failover on Windows Server 2016 with Powershell](https://youtu.be/Ru7G7QpwT-E)</br>
+[11. Introduction to IPAM on Windows Server 2016](https://youtu.be/uyy73QDDQTA)</br>
+[12. Install and Configure IPAM on Windows Server 2016 with Powershell](https://youtu.be/JyzRWOPqjSw)
