@@ -15,4 +15,6 @@ You can find all presentations, code and other materials from the Windows Server
 [9. Introduction to DHCP Failover on Windows Server 2016](https://youtu.be/JcJrEOlFf4g)</br>
 [10. Configure DHCP Failover on Windows Server 2016 with Powershell](https://youtu.be/Ru7G7QpwT-E)</br>
 [11. Introduction to IPAM on Windows Server 2016](https://youtu.be/uyy73QDDQTA)</br>
-[12. Install and Configure IPAM on Windows Server 2016 with Powershell](https://youtu.be/JyzRWOPqjSw)
+[12. Install and Configure IPAM on Windows Server 2016 with Powershell](https://youtu.be/JyzRWOPqjSw)</br>
+[13. Install and Configure Windows Deployment Services on Windows Server 2016](https://youtu.be/G5wonFS2ntM)</br>
+[14. Install and Configure WSUS with Powershell on Windows Server 2016](https://youtu.be/d3NfLVwrLoo)
