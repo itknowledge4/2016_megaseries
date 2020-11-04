@@ -17,4 +17,8 @@ You can find all presentations, code and other materials from the Windows Server
 [11. Introduction to IPAM on Windows Server 2016](https://youtu.be/uyy73QDDQTA)</br>
 [12. Install and Configure IPAM on Windows Server 2016 with Powershell](https://youtu.be/JyzRWOPqjSw)</br>
 [13. Install and Configure Windows Deployment Services on Windows Server 2016](https://youtu.be/G5wonFS2ntM)</br>
-[14. Install and Configure WSUS with Powershell on Windows Server 2016](https://youtu.be/d3NfLVwrLoo)
+[14. Install and Configure WSUS with Powershell on Windows Server 2016](https://youtu.be/d3NfLVwrLoo)</br>
+[15. Data Deduplication on Windows Server 2016](https://youtu.be/0mDvcKspdS8)</br>
+[16. Introduction to Storage Spaces on Windows Server 2016](https://youtu.be/7uVgZ2_CgXA)</br>
+[17. Configure Storage Spaces on Windows Server 2016 with Powershell](https://youtu.be/KH8RXBSh8gc)</br>
+[18. Configure iSCSI Target on Windows Server 2016 with Powershell](https://youtu.be/LUXStbAmDQU)
