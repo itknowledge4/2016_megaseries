@@ -21,4 +21,6 @@ You can find all presentations, code and other materials from the Windows Server
 [15. Data Deduplication on Windows Server 2016](https://youtu.be/0mDvcKspdS8)</br>
 [16. Introduction to Storage Spaces on Windows Server 2016](https://youtu.be/7uVgZ2_CgXA)</br>
 [17. Configure Storage Spaces on Windows Server 2016 with Powershell](https://youtu.be/KH8RXBSh8gc)</br>
-[18. Configure iSCSI Target on Windows Server 2016 with Powershell](https://youtu.be/LUXStbAmDQU)
+[18. Configure iSCSI Target on Windows Server 2016 with Powershell](https://youtu.be/LUXStbAmDQU)</br>
+[19. Configure a Failover Cluster on Windows Server 2016 Core with Powershell](https://youtu.be/p7krxAfbmdM)</br>
+[20. Implement Continuously Available File Shares on Windows Server 2016 with Powershell](https://youtu.be/49ZdIpUZt_0)
