@@ -23,4 +23,7 @@ You can find all presentations, code and other materials from the Windows Server
 [17. Configure Storage Spaces on Windows Server 2016 with Powershell](https://youtu.be/KH8RXBSh8gc)</br>
 [18. Configure iSCSI Target on Windows Server 2016 with Powershell](https://youtu.be/LUXStbAmDQU)</br>
 [19. Configure a Failover Cluster on Windows Server 2016 Core with Powershell](https://youtu.be/p7krxAfbmdM)</br>
-[20. Implement Continuously Available File Shares on Windows Server 2016 with Powershell](https://youtu.be/49ZdIpUZt_0)
+[20. Implement Continuously Available File Shares on Windows Server 2016 with Powershell](https://youtu.be/49ZdIpUZt_0)</br>
+[21. Encrypt Cluster Disks with Powershell on Windows Server 2016](https://youtu.be/3YC1Rw-khjU)</br>
+[22. Configure Clustered Scheduled Tasks with Powershell on Windows Server 2016](https://youtu.be/VOo9DwsdKik)</br>
+[23. Cluster Aware Updating with Powershell on Windows Server 2016](https://youtu.be/MeeGMQCzZFM)

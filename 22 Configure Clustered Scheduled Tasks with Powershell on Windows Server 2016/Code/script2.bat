@@ -1,0 +1,1 @@
+whoami > C:\Task_Resource.txt
