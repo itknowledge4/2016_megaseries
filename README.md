@@ -26,4 +26,9 @@ You can find all presentations, code and other materials from the Windows Server
 [20. Implement Continuously Available File Shares on Windows Server 2016 with Powershell](https://youtu.be/49ZdIpUZt_0)</br>
 [21. Encrypt Cluster Disks with Powershell on Windows Server 2016](https://youtu.be/3YC1Rw-khjU)</br>
 [22. Configure Clustered Scheduled Tasks with Powershell on Windows Server 2016](https://youtu.be/VOo9DwsdKik)</br>
-[23. Cluster Aware Updating with Powershell on Windows Server 2016](https://youtu.be/MeeGMQCzZFM)
+[23. Cluster Aware Updating with Powershell on Windows Server 2016](https://youtu.be/MeeGMQCzZFM)</br>
+[24. Introduction to Hyper-V on Windows Server 2016](https://youtu.be/jZU4aLHTW2o)</br>
+[25. Enable Hyper-V Nested Virtualization on Windows Server 2016](https://youtu.be/W0NYGZQo0xw)</br>
+[26. Basic Hyper-V configuration with Powershell on Windows Server 2016](https://youtu.be/m8S3AAzCzX4)</br>
+[27. Generation 2 Virtual Machines in Windows Server 2016](https://youtu.be/KwBwATSsxOw)</br>
+[28. Enhanced Session Mode for Virtual Machines in Windows Server 2016](https://youtu.be/zeD-8b-vjtQ)</br>
