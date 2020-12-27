@@ -32,3 +32,6 @@ You can find all presentations, code and other materials from the Windows Server
 [26. Basic Hyper-V configuration with Powershell on Windows Server 2016](https://youtu.be/m8S3AAzCzX4)</br>
 [27. Generation 2 Virtual Machines in Windows Server 2016](https://youtu.be/KwBwATSsxOw)</br>
 [28. Enhanced Session Mode for Virtual Machines in Windows Server 2016](https://youtu.be/zeD-8b-vjtQ)</br>
+[29. Hyper-V Checkpoints with Powershell on Windows Server 2016](https://youtu.be/QR0BgxG4z7U)</br>
+[30. Resource metering for Hyper-V with Powershell on Windows Server 2016](https://youtu.be/fmugk5GXUYk)</br>
+[31. Install and configure Hyper-V Server 2016](https://youtu.be/0EkIPmXl3qA)
