@@ -34,4 +34,8 @@ You can find all presentations, code and other materials from the Windows Server
 [28. Enhanced Session Mode for Virtual Machines in Windows Server 2016](https://youtu.be/zeD-8b-vjtQ)</br>
 [29. Hyper-V Checkpoints with Powershell on Windows Server 2016](https://youtu.be/QR0BgxG4z7U)</br>
 [30. Resource metering for Hyper-V with Powershell on Windows Server 2016](https://youtu.be/fmugk5GXUYk)</br>
-[31. Install and configure Hyper-V Server 2016](https://youtu.be/0EkIPmXl3qA)
+[31. Install and configure Hyper-V Server 2016](https://youtu.be/0EkIPmXl3qA)</br>
+[32. Hyper-V VM Export and Import with Powershell on Windows Server 2016](https://youtu.be/1q8OthpbVOg)</br>
+[33. Hyper-V Live Migration with Powershell on Windows Server 2016](https://youtu.be/RKI7vu1w9Is)</br>
+[34. Configure Constrained Delegation for Hyper-V with Powershell on Windows Server 2016](https://youtu.be/7vKWjaUk-JQ)</br>
+[35. Configure Hyper-V Replica with Powershell on Windows Server 2016](https://youtu.be/iAv1NuHsHtA)
