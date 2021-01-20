@@ -38,4 +38,8 @@ You can find all presentations, code and other materials from the Windows Server
 [32. Hyper-V VM Export and Import with Powershell on Windows Server 2016](https://youtu.be/1q8OthpbVOg)</br>
 [33. Hyper-V Live Migration with Powershell on Windows Server 2016](https://youtu.be/RKI7vu1w9Is)</br>
 [34. Configure Constrained Delegation for Hyper-V with Powershell on Windows Server 2016](https://youtu.be/7vKWjaUk-JQ)</br>
-[35. Configure Hyper-V Replica with Powershell on Windows Server 2016](https://youtu.be/iAv1NuHsHtA)
+[35. Configure Hyper-V Replica with Powershell on Windows Server 2016](https://youtu.be/iAv1NuHsHtA)</br>
+[36. Configure VM Failover settings with Powershell on Windows Server 2016](https://youtu.be/DcZBJoKDm3Q)</br>
+[37. Create a Hyper-V cluster with Powershell on Windows Server 2016](https://youtu.be/He_ie8-8XoY)</br>
+[38. Configure Hyper-V Replica Broker with Powershell](https://youtu.be/XfYrq5tM3d8)</br>
+[39. Powershell Direct and Offline File Copy on Windows Server 2016 Hyper-V](https://youtu.be/LvLg6H_lpsI)
