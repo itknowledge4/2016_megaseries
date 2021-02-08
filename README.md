@@ -42,4 +42,7 @@ You can find all presentations, code and other materials from the Windows Server
 [36. Configure VM Failover settings with Powershell on Windows Server 2016](https://youtu.be/DcZBJoKDm3Q)</br>
 [37. Create a Hyper-V cluster with Powershell on Windows Server 2016](https://youtu.be/He_ie8-8XoY)</br>
 [38. Configure Hyper-V Replica Broker with Powershell](https://youtu.be/XfYrq5tM3d8)</br>
-[39. Powershell Direct and Offline File Copy on Windows Server 2016 Hyper-V](https://youtu.be/LvLg6H_lpsI)
+[39. Powershell Direct and Offline File Copy on Windows Server 2016 Hyper-V](https://youtu.be/LvLg6H_lpsI)</br>
+[40. Hyper-V VM groups on Windows Server 2016](https://youtu.be/0DbyCkIzo4s)</br>
+[41. Create and use shared virtual hard disks in Hyper-V on Windows Server 2016](https://youtu.be/9D_mIGxHWwg)</br>
+[42. Cluster OS rolling upgrade from Windows Server 2012 R2 to Windows Server 2016](https://youtu.be/89ld_Y3K_aM)
